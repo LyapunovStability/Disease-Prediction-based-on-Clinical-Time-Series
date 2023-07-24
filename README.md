@@ -21,6 +21,28 @@
 ## Related Works
 
 
+<table border=0 cellpadding=0 cellspacing=0 >
+    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<tr height=19 style='height:14.25pt'>
+		<td class=xl6519452 width="5%" align="center">Year</td>
+		<td class=xl6519452 width="15%" align="center">Conference</td>
+		<td class=xl6519452 width="75%" align="center">Title</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+		<td class=xl6519452 align="center">2020</td>
+		<td class=xl6519452 align="center">AAAI</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2206.10189.pdf">Data-gru: Dual-attention time-aware gated recurrent unit for irregular multivariate time series</a></td>
+        <td class=xl6519452 align="center"></td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+</table>
+
+
+
 ## Package
 * Python ([学习网站](https://www.runoob.com/python3/python3-install.html))
 	* 可以动手在自己的PC上配置环境，并且编写代码
