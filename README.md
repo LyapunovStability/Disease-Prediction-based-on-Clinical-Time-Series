@@ -14,6 +14,10 @@
     <img src="output.png" width="500" align="center">
 </p>
 
+**Figure.1** The illustration of one clinical time series sample (collected from the first 48 hours into ICU)
+
+
+
 ## Related Works
 
 
