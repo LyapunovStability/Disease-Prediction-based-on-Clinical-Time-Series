@@ -83,10 +83,9 @@
 ## Paper Discussion: 
 
 <table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
-	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+    <col width="40%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="20%" style='mso-width-source:userset;mso-width-alt:26080'>
 	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
 	<tr height=19 style='height:14.25pt'>
 		<td class=xl6519452 width="5%" align="center">Paper</td>
 		<td class=xl6519452 width="15%" align="center">Discussion Time</td>
